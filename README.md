@@ -3,8 +3,8 @@ This is Sample project about android jetpack navigation component, download this
 
 No Need to Add
 
-Kotlin extentions,
-Kotlin dependencies,
-Kotlin path,
-Navigation graph,
-Already set implementation of jetpack navigation component in MainActivity.
+1. Kotlin extentions,
+2. Kotlin dependencies,
+3. Kotlin path,
+4. Navigation graph,
+5. Already set implementation of jetpack navigation component in MainActivity.
