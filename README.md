@@ -1,4 +1,4 @@
-Android-JectPack-Navigation-Sample
+Android-Components-Sample
 This is Sample project for new developer to understand the concept of android components.
 
 The Android Components Are
