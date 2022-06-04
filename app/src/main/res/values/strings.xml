@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">jetpack Navigation Sample</string>
+    <string name="share">share</string>
+    <string name="rate_us">Rate US</string>
+    <string name="About">About</string>
+    <string name="companyName">Digital Finger Apps</string>
+    <string name="aboutUS">Version App 1.1.0\nEmail:\nDigitalFingerApps.pk@gmail.com</string>
+    <string name="moreApps">MORE APPS</string>
+    <string name="androidJetPackNavigationSample">Android JectPack\nNavigation Sample</string>
+</resources>
