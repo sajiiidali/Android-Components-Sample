@@ -1,4 +1,4 @@
-package com.digital.finger.pk.jetpackNavigationSample
+package com.digital.finger.pk.AndroidComponentsSample
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

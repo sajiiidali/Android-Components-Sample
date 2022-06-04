@@ -1,4 +1,4 @@
-package com.digital.finger.pk.jetpackNavigationSample
+package com.digital.finger.pk.AndroidComponentsSample
 
 import org.junit.Test
 

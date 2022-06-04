@@ -1,4 +1,4 @@
-package com.digital.finger.pk.jetpackNavigationSample
+package com.digital.finger.pk.AndroidComponentsSample
 
 import android.content.Intent
 import android.net.Uri
@@ -10,7 +10,6 @@ import androidx.appcompat.app.AlertDialog
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI
-import java.util.*
 
 class MainActivity : AppCompatActivity() {
     private lateinit var navController: NavController

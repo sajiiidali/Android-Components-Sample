@@ -1,11 +1,11 @@
-package com.digital.finger.pk.jetpackNavigationSample.fragments
+package com.digital.finger.pk.AndroidComponentsSample.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.digital.finger.pk.jetpackNavigationSample.R
+import com.digital.finger.pk.AndroidComponentsSample.R
 
 class HomeFragment: Fragment(R.layout.homefragment) {
 
